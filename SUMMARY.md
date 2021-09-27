@@ -15,7 +15,11 @@
 * [Understanding How Firebase Rules Work](documentation/understanding-how-firebase-rules-work.md)
 * [Untitled](documentation/untitled.md)
 
+## Editor Syntax
+
+* [Intro](editor-syntax/intro.md)
+
 ## Update Log
 
-* [Untitled](update-log/untitled.md)
+* [v1.0.1 Update Log](update-log/this-is-contains-updates-made-in-different-versions-of-firebase-rules-genertor.md)
 

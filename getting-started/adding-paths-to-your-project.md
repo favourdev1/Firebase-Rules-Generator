@@ -30,6 +30,14 @@ If you want to use the location/path as a wild card, while creating it , put a $
 
  The _dollar sign_ in `$myLocation` indicates that it's a wildcard. You an name wildcards whatever you like.  You could have named it `$broccoli`... but then you'd have to refer to the wildcard as `$roccoli` in your condition statements :\)
 
+A variable that can be used to reference the key of a `$location` that was used earlier in a rule structure.
+
+When you have a `$location` in your rules structure, you can use a matching `$` variable within your rule expression to get the name of the actual child being read or written
+
+
+
+
+
 ### Adding Security Rules For A Path/Location
 
 To add security rules to  a `path/location` click on the small option button beside the project. More information on adding security rules can be found [here!](adding-security-rules.md)
