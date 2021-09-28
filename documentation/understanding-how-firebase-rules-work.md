@@ -1,5 +1,5 @@
 ---
-description: This page explains how firebase rules work
+description: This page explains how firebase rules work.
 ---
 
 # Understanding How Firebase Rules Work
