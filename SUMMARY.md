@@ -17,7 +17,8 @@
 
 ## Editor Syntax
 
-* [Intro](editor-syntax/intro.md)
+* [Writing Your DataBase Rules](editor-syntax/intro.md)
+* [Faq](editor-syntax/faq.md)
 
 ## Update Log
 

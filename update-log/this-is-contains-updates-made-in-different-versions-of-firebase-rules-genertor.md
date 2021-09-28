@@ -1,12 +1,10 @@
-
-# Update Logs
+# v1.0.1 Update Log
 
 This page includes features that has been added to v1.0.1 Update
 
-#
-### v 1.0.1 - 2021-09-15
+## v 1.0.1 - 2021-09-15
 
-### Added
+## Added
 
 * Improved User Interface in every section of the app.
 * Added Documentation
@@ -23,7 +21,7 @@ This page includes features that has been added to v1.0.1 Update
 * Added Extra rules syntax to previously added rule.
 * Rules for root path now appear in cascading order.
 * In `Code editor`, Syntax are now pronounced so you can understand more.
-*  Removed autocomplete text feature which has been replaced with some other feature.
+* Removed autocomplete text feature which has been replaced with some other feature.
 * Added rule history \(beta\) so you can view your previous history of generated rules. Which you have to enable in settings\(we'd love to get your response on this feature \).In future, you'd be able to revert back to your previous rule.
 * In code editor, we've added syntax. 
 * More features added which cant be explained here, Have Fun Finding them!
@@ -34,10 +32,9 @@ We have provided this app completely free of charge. If you love our work, you c
 [C](https://flutterwave.com/pay/prodevstudioxryv)[lick here to make a donation to us](https://flutterwave.com/pay/prodevstudioxryv)
 {% endhint %}
 
-### Change Log
+## Change Log
 
 * Changed name from `project tile` to `location tile.`
 * Rules for root path now appear in cascading order.
 * Removed autocomplete text feature which has been replaced with some other feature.
-
 

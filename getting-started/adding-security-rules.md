@@ -12,15 +12,19 @@ To Add Your custom Rules, click `Custom access`. This will enable you to add cus
 
 * Locked Mode - This stops all read access to your database. Meaning , nobody \(including  you\) can view content of this path to edit it.
 
+{% tabs %}
+{% tab title="json" %}
 ```javascript
 //similar to
 ".read":false;
 ```
+{% endtab %}
+{% endtabs %}
 
 * Allow Access - This allows access to all users. Highly Insecure.
 
-{% hint style="info" %}
-This is a **Highly Unrecommended** approach as it grants any user access to such database path
+{% hint style="danger" %}
+This is a  **`highly unrecommended`** approach as it grants any user access to such database path and information in your database could be altered at any time.
 {% endhint %}
 
 * Custom Access - This is highly recommended as it allows you to add custom rules for only read permission
