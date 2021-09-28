@@ -8,19 +8,22 @@ Firebase Security Rules work by matching a pattern against database paths, and t
 
 ### For Realtime Database, JSON-based Rules use the following syntax:
 
-{% code title="Realtime Database" %}
+{% tabs %}
+{% tab title="Realtime Database" %}
 ```text
 {
   "rules": {
     "<<path>>": {
-    // Allow the request if the condition for each method is true.
+    // Allow the request if the condition
+    // for each method is true.
       ".read": <<condition>>,
       ".write": <<condition>>
     }
   }
 }
 ```
-{% endcode %}
+{% endtab %}
+{% endtabs %}
 
  
 
