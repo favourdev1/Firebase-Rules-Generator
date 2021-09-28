@@ -38,17 +38,10 @@ RuleGuard  lets you write Firebase Database Realtime security rules for your  ap
 ![](.gitbook/assets/screenshot_20210903-082328.png)
 
 {% hint style="info" %}
- This is a little more easier to understand for average users who dont know much about firebase rules syntax.
+ This is a little more easier to understand for average users who don't know much about firebase rules syntax.
 {% endhint %}
 
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+This Guide prepared to help you understand database rules and how to use RuleGuard to create  secure database rule
 
 
 
