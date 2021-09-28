@@ -1,12 +1,10 @@
 
 # Update Logs
 
-# This page includes features that has been added to v1.0.1 Update
+This page includes features that has been added to v1.0.1 Update
 
 #
-#
-
-## v 1.0.1 - 2021-09-15
+### v 1.0.1 - 2021-09-15
 
 ### Added
 
