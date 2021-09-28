@@ -1,8 +1,10 @@
----
-description: This page includes features that has been added to v1.0.1 Update
----
 
-# v1.0.1 Update Log
+# Update Logs
+
+# This page includes features that has been added to v1.0.1 Update
+
+#
+#
 
 ## v 1.0.1 - 2021-09-15
 
@@ -39,6 +41,5 @@ We have provided this app completely free of charge. If you love our work, you c
 * Changed name from `project tile` to `location tile.`
 * Rules for root path now appear in cascading order.
 * Removed autocomplete text feature which has been replaced with some other feature.
-* 
 
 
