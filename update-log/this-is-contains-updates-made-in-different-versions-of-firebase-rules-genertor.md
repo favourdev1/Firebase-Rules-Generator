@@ -1,10 +1,12 @@
-# v1.0.1 Update Log
+---
+description: This page includes features that has been added to v1.0.1 Update
+---
 
-This page includes features that has been added to v1.0.1 Update
+# Update Log
 
 ## v 1.0.1 - 2021-09-15
 
-## Added
+### Added
 
 * Improved User Interface in every section of the app.
 * Added Documentation
@@ -26,7 +28,7 @@ This page includes features that has been added to v1.0.1 Update
 * In code editor, we've added syntax. 
 * More features added which cant be explained here, Have Fun Finding them!
 
-{% hint style="info" %}
+{% hint style="success" %}
 We have provided this app completely free of charge. If you love our work, you can make donations to us. Every penny donated goes a long way in encouraging us to add more needed features.
 
 [C](https://flutterwave.com/pay/prodevstudioxryv)[lick here to make a donation to us](https://flutterwave.com/pay/prodevstudioxryv)
@@ -37,4 +39,6 @@ We have provided this app completely free of charge. If you love our work, you c
 * Changed name from `project tile` to `location tile.`
 * Rules for root path now appear in cascading order.
 * Removed autocomplete text feature which has been replaced with some other feature.
+
+
 

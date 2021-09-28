@@ -22,5 +22,5 @@
 
 ## Update Log
 
-* [v1.0.1 Update Log](update-log/this-is-contains-updates-made-in-different-versions-of-firebase-rules-genertor.md)
+* [Update Log](update-log/this-is-contains-updates-made-in-different-versions-of-firebase-rules-genertor.md)
 
